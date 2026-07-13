@@ -1,1 +1,10 @@
-# clips
+<img width="378" height="695" alt="20260618_183930" src="https://github.com/user-attachments/assets/10051ea7-c4cf-468d-9104-8848c97fd458" />
+<img width="894" height="695" alt="Screenshot_20260411_041240_Genshin_Impact" src="https://github.com/user-attachments/assets/153d5b12-a9f6-4970-9ed9-5ad14e81ac3d" />
+<img width="900" height="695" alt="Screenshot_20260411_041746_Genshin_Impact" src="https://github.com/user-attachments/assets/055dfef2-e07b-4426-a440-292b167c9a6d" />
+<img width="711" height="695" alt="Screenshot_20260412_024509_Discord" src="https://github.com/user-attachments/assets/4ac29fe9-1550-46c0-90c8-4160826fec28" />
+<img width="506" height="695" alt="Screenshot_20260412_125229_Discord" src="https://github.com/user-attachments/assets/13809c1e-601a-49ec-b351-13bc76040fc7" />
+<img width="1080" height="335" alt="Screenshot_20260521_015547_Discord" src="https://github.com/user-attachments/assets/f8e6ab7f-a416-4ef3-84d5-90474036f12a" />
+<img width="989" height="695" alt="Screenshot_20260603_232126_Discord" src="https://github.com/user-attachments/assets/d8e05dd2-03e0-4388-9055-b36084eab677" />
+<img width="954" height="695" alt="Screenshot_20260608_150646_Discord" src="https://github.com/user-attachments/assets/0c152341-ac51-4b27-8480-37e44f68e75e" />
+<img width="500" height="164" alt="2026-07-14_01-36-26" src="https://github.com/user-attachments/assets/80af4482-5b8f-4f3c-ab0e-0ccc95a04b6f" />
+<img width="1080" height="450" alt="Screenshot_20260620_000349_Discord" src="https://github.com/user-attachments/assets/446b92e6-e161-431c-910b-d82678a6cd83" />
