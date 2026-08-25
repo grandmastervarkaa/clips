@@ -1,4 +1,4 @@
-<img width="600" height="695" alt="Screenshot_20260412_024509_Discord" src="https://github.com/user-attachments/assets/4ac29fe9-1550-46c0-90c8-4160826fec28" />
+<img width="620" height="695" alt="Screenshot_20260412_024509_Discord" src="https://github.com/user-attachments/assets/4ac29fe9-1550-46c0-90c8-4160826fec28" />
 <img width="506" height="695" alt="Screenshot_20260412_125229_Discord" src="https://github.com/user-attachments/assets/13809c1e-601a-49ec-b351-13bc76040fc7" />
 <img width="900" height="235" alt="Screenshot_20260521_015547_Discord" src="https://github.com/user-attachments/assets/f8e6ab7f-a416-4ef3-84d5-90474036f12a" />
 <img width="989" height="695" alt="Screenshot_20260603_232126_Discord" src="https://github.com/user-attachments/assets/d8e05dd2-03e0-4388-9055-b36084eab677" />
